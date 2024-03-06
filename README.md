@@ -5,7 +5,7 @@ This project implements a Convolutional Neural Network (CNN) to classify skin ca
 ### Project Overview
 
 * **Goal:** Develop a CNN model to accurately classify skin cancer images.
-* **Data:** Used a dataset of skin cancer images from [Kaggle](https://www.kaggle.com/). (Replace with specific dataset details if available)
+* **Data:** Used a dataset of skin cancer images from [Kaggle](/kaggle/input/skin-cancer-malignant-vs-benign). 
 * **Model:** Implemented a CNN architecture with convolutional and dense layers.
 * **Evaluation:** Trained the model on a portion of the data and evaluated its performance on unseen images.
 
